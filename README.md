@@ -302,5 +302,6 @@ Date	Jul 18, 2014
 Genes	3979
 Protein-coding	3816
 Non-coding	54
-D. RESUME LOS RESULTADOS QUE OBTUVISTE EXPLICANDO SI TU APROXIMACIÓN FUE ADECUADA O NO. EN ESTA SECCIÓN DE LA DOCUMENTACIÓN QUE INCLUYA LAS CONCLUSIONES Y OBSERVACIONES QUE PUDISTE HACER GRACIAS A ESTE ANÁLISIS
+
+D. RESUMEN
 En resumen, de todas las secuecias aminoacidicas se logro identificar  2 genes asociados a la biosíntesis de antibióticos.
