@@ -1,8 +1,11 @@
 # Proyecto-final-wbds
 Proyecto final
+
 A. FINALIDAD 
 El surgimiento de una subpoblación de M. Tuberculosis extremadamente resistentes XDR-TB al tratamiento antibioterápico múltiple, es diferente al de las subpoblaciones catalogadas como M.Tuberculosis multidrogo resistente o MDR- TB debido  a su pronóstico de sobrevida pobre sobre los pacientes. Un solo caso de XDR-TB y el estudio de sus contactos deben ser enfocados como una emergencia sanitaria. Ya que el desarrollo de la XDR-TB revela debilitamiento de los servicios asistenciales en el primer nivel de atención. Siendo dos posibles factores de riesgo más fuertemente asociados con la XDR-TB: 1) Fracaso a un régimen antituberculoso que contiene drogas de segunda línea que incluye un inyectable y una fluoroquinolona y 2) Contacto estrecho con un individuo con XDR-TB.
 Debido a este problema, es necesario una investigación no solo la identificación de cepas XDR-TB,  y que mejor que conocer dominios funcionales en el subset de proteínas de interés y  predecir secuencias codificantes.
+
+
 B. DESCRIBIR LOS PASOS PARA SOLUCIONAR EL PROBLEMA (CÓDIGO Y COMENTARIOS).
 
 Para preparar nuestro entorno, necesitamos de las siguientes librerias:
